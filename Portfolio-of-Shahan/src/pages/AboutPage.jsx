@@ -1,4 +1,5 @@
 import "./AboutPage.css"
+// import image1 from "./cravingwinebarimg"
 
 function About() {
   return (

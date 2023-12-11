@@ -4,7 +4,7 @@ ul{
   flex-direction: row;
   justify-content: flex-end;
   background-color: aqua;
-  width: 70%;
+  width: 100%;
   margin-bottom: 0 !important;
 }
 
@@ -14,7 +14,7 @@ ul{
 li{
   margin: 10px;
 /* margin-bottom: 50px; */
-margin-top: 115px;
+margin-top: 240px;
 margin-right: 60px;
 font-size: large;
  
